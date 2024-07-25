@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/CMakeFiles/bootloader
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/CMakeFiles/bootloader.rule
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/CMakeFiles/bootloader-complete.rule
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Githubrepos/_ENGEDU/Spiecial_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
